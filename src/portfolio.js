@@ -177,7 +177,7 @@ const workExperiences = {
       role: "Software Developer",
       company: "Urban Traders",
       companylogo: require("./assets/images/startuplogo.jpg"),
-      date: "July 2024 – Present",
+      date: "July 2023 – Present",
       desc: "A retail ecosystem based startup company in hyderabad.",
       descBullets: [
         "Led the frontend development for a large-scale project managing distribution and delivery workflows.",
@@ -188,7 +188,7 @@ const workExperiences = {
       role: "Front-End Developer",
       company: "Kiwi Technologies India Pvt Ltd",
       companylogo: require("./assets/images/kiwitech.jpg"),
-      date: "Dec 2022 – June 2024",
+      date: "Dec 2022 – June 2023",
       desc: "Worked here as a Front-End Developer in the capacity of React, Redux and ReactTypeScript.",
       descBullets: [
         "Worked on several live projects incapacity of React, Redux and ReactTypeScript.",
