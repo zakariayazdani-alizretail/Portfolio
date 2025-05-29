@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.61dc00c7.css",
-    "main.js": "/Portfolio/static/js/main.d86d125e.js",
+    "main.js": "/Portfolio/static/js/main.521a28b6.js",
     "static/css/64.bba8fa55.chunk.css": "/Portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/Portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/Portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/Portfolio/static/js/769.bda0d7b7.chunk.js",
     "static/media/fa-solid-900.ttf": "/Portfolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/login-icon.jpg": "/Portfolio/static/media/login-icon.4c57e7e9a32d83859f27.jpg",
     "static/media/RGPVLOGO.png": "/Portfolio/static/media/RGPVLOGO.b50dc2bc3cc7a7ecec90.png",
     "static/media/Montserrat-Regular.ttf": "/Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/fa-brands-400.ttf": "/Portfolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -26,11 +27,10 @@
     "static/media/skill.svg": "/Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/fa-v4compatibility.woff2": "/Portfolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "static/media/saayaHealthLogo.webp": "/Portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
-    "static/media/nextuLogo.webp": "/Portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/Portfolio/index.html",
     "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.61dc00c7.css.map": "/Portfolio/static/css/main.61dc00c7.css.map",
-    "main.d86d125e.js.map": "/Portfolio/static/js/main.d86d125e.js.map",
+    "main.521a28b6.js.map": "/Portfolio/static/js/main.521a28b6.js.map",
     "64.bba8fa55.chunk.css.map": "/Portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/Portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/Portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.61dc00c7.css",
-    "static/js/main.d86d125e.js"
+    "static/js/main.521a28b6.js"
   ]
 }
