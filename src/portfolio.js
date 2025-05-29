@@ -178,10 +178,10 @@ const workExperiences = {
       company: "Urban Traders",
       companylogo: require("./assets/images/startuplogo.jpg"),
       date: "July 2024 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "A retail ecosystem based startup company in hyderabad.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Led the frontend development for a large-scale project managing distribution and delivery workflows.",
+        "Contributed to building a software alternative to MARG, widely recognized for its efficiency in business management.",
       ]
     },
     {
@@ -189,21 +189,25 @@ const workExperiences = {
       company: "Kiwi Technologies India Pvt Ltd",
       companylogo: require("./assets/images/kiwitech.jpg"),
       date: "Dec 2022 – June 2024",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Worked here as a Front-End Developer in the capacity of React, Redux and ReactTypeScript.",
+      descBullets: [
+        "Worked on several live projects incapacity of React, Redux and ReactTypeScript.",
+        "Designed multiple dynamic and browser compatible pages using HTML5,CSS3, Javascript (React,Redux). ",
+      ]
     },
      {
       role: "Java Developer Intern",
       company: "Suven Consultants and Technology Pvt Ltd",
       companylogo: require("./assets/images/suven_consultants_and_technology_pvt_ltd_logo.jpg"),
       date: "Sep 2021 – Dec 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Was involved with different projects incapacity of Java development."
     },
      {
       role: "Frontend Developer Intern",
       company: "Dotcom Generations",
       companylogo: require("./assets/images/dotcom.png"),
       date: "Jul 2020 – Sep 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Was involved with different projects incapacity of Website development."
     },
   ]
 };
@@ -222,27 +226,27 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
+     {
+      image: require("./assets/images/login-icon.jpg"),
+      projectName: "Aliz Retail",
+      projectDesc: "FMCG Distribution, Delivery and Supply Chain Management Software",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://alizretail.in/"
+        }
+      ]
+    },
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "A mental health platform offering confidential, accessible therapy and wellness support tailored for individuals and organizations.",
       footerLink: [
         {
           name: "Visit Website",
           url: "http://saayahealth.com/"
         }
         //  you can add extra buttons here.
-      ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
       ]
     }
   ],
